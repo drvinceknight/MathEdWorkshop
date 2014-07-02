@@ -1,14 +1,13 @@
-\documentclass[landscape]{article}
+\documentclass[a4paper,landscape]{article}
 %\documentclass[landscape]{article}
 %\documentclass[legalpaper]{article}
 
-\usepackage[a4paper,margin=1in]{geometry}
+\usepackage[margin=1in]{geometry}
 \usepackage{graphicx}
 \usepackage{parskip}
 \usepackage{wallpaper}
 \usepackage{xcolor}
 \usepackage{tikz}
-\usetikzlibrary{shapes, arrows}
 
 
 \pagenumbering{gobble}
@@ -30,12 +29,7 @@
     \vspace{1cm}
 
     \begin{tikzpicture}
-        \node at (0,0) [fill=red!20, scale=16] {M1.20};
-        \draw[
-            -triangle 45,
-            line width=3.0mm,
-            postaction={draw, line width=0.25cm, shorten >=0.4cm, -}
-        ] (10,-5) -- (-10,-5);
+        \node at (0,0) [fill=red!20, scale=20] {M1.04};
     \end{tikzpicture}
 \end{center}
 \end{document}

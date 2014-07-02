@@ -20,8 +20,14 @@ INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
 INPUT /usr/local/texlive/2012/texmf-dist/tex/xelatex/xetex-def/xetex.def
 INPUT /usr/local/texlive/2012/texmf-dist/tex/xelatex/xetex-def/xetex.def
-INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/preprint/fullpage.sty
-INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/preprint/fullpage.sty
+INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2012/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2012/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/parskip/parskip.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/parskip/parskip.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/wallpaper/wallpaper.sty
@@ -38,8 +44,6 @@ INPUT /usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-INPUT /usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-INPUT /usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty
 INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty
